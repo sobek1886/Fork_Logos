@@ -23,7 +23,7 @@ The key feature of the dataset is **annotated groups of glosses that differ only
 
 The dataset is released to universities and research institutes for academic research purposes only.
 
-**Instructions for obtaining the dataset will be added later.**
+Contact us at vision_rnd_ml@sberbank.ru for instructions on how to obtain the dataset.
 
 
 
